@@ -21,6 +21,7 @@
   <a href="https://instagram.com/lucasyanm" target="_blank"><img align="center" height="40" alt="INSTAGRAM" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png"></a>
   <a href="https://www.youtube.com/c/lucasyanm" target="_blank"><img align="center" height="40" alt="YOUTUBE" src="https://cdn-icons-png.flaticon.com/512/1384/1384012.png" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/lucas-yan-carvalho/" target="_blank"><img align="center" height="40" alt="LINKEDIN" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" target="_blank"></a>
+  <a href="https://beacons.ai/lucasyancarvalho" target="_blank"><img align="center" height="40" alt="BEACONS" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" target="_blank"></a>
 <!--
   <a href="https://www.twitch.tv/lucasyanm" target="_blank"><img align="center" height="40" alt="TWITCH" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
   <a href="url-discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
